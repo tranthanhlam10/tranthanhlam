@@ -1,6 +1,6 @@
 # Tran Thanh Lam
 :star: About me
-- :blue_book: I'm Automation Tester and I I studied at University of Information Technology (UIT).
+- :blue_book: I'm Automation Tester and I studied at University of Information Technology (UIT).
 - :mortar_board: I love learning about fields in Information Technology and especially testing.
 - :question: You can talk to me about testing.
 - :green_heart: I love sport, eg: Football, Tennis, Chess, and League of Legends.
